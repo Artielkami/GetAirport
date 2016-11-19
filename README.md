@@ -6,9 +6,8 @@
 pip install simplejson
 pip install requests
 ```
- * Download and install Connector/Python that suit your system:
-> [Download Connector/Python](http://dev.mysql.com/downloads/connector/python/)
-3. And then run the main process with command:
+3. Download and install Connector/Python that suit your system: [Download Connector/Python](http://dev.mysql.com/downloads/connector/python/)
+4. And then run the main process with command:
 ```
 python main.py
 ```
