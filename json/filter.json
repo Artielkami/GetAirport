@@ -1,0 +1,848 @@
+[
+    {
+        "CountryName": "Ghana",
+        "Name": "Accra",
+        "CityName": "Accra",
+        "IataCode": "ACC"
+    },
+    {
+        "CountryName": "Ethiopia",
+        "Name": "Addis Ababa",
+        "CityName": "Addis Ababa",
+        "IataCode": "ADD"
+    },
+    {
+        "CountryName": "Argentina",
+        "Name": "Buenos Aires Jorge Newbery",
+        "CityName": "Buenos Aires",
+        "IataCode": "AEP"
+    },
+    {
+        "CountryName": "New Zealand",
+        "Name": "Auckland International",
+        "CityName": "Auckland",
+        "IataCode": "AKL"
+    },
+    {
+        "CountryName": "Jordan",
+        "Name": "Amman Queen Alia",
+        "CityName": "Amman",
+        "IataCode": "AMM"
+    },
+    {
+        "CountryName": "Netherlands",
+        "Name": "Amsterdam",
+        "CityName": "Amsterdam",
+        "IataCode": "AMS"
+    },
+    {
+        "CountryName": "Antigua and Barbuda",
+        "Name": "Saint John's",
+        "CityName": "Saint John's",
+        "IataCode": "ANU"
+    },
+    {
+        "CountryName": "Sweden",
+        "Name": "Stockholm Arlanda",
+        "CityName": "Stockholm",
+        "IataCode": "ARN"
+    },
+    {
+        "CountryName": "Turkmenistan",
+        "Name": "Ashgabat",
+        "CityName": "Ashgabat",
+        "IataCode": "ASB"
+    },
+    {
+        "CountryName": "Greece",
+        "Name": "Athens International",
+        "CityName": "Athens",
+        "IataCode": "ATH"
+    },
+    {
+        "CountryName": "United Arab Emirates",
+        "Name": "Abu Dhabi International",
+        "CityName": "Abu Dhabi",
+        "IataCode": "AUH"
+    },
+    {
+        "CountryName": "Spain",
+        "Name": "Barcelona",
+        "CityName": "Barcelona",
+        "IataCode": "BCN"
+    },
+    {
+        "CountryName": "Bermuda",
+        "Name": "L.F. Wade International Airport",
+        "CityName": "Hamilton",
+        "IataCode": "BDA"
+    },
+    {
+        "CountryName": "Serbia",
+        "Name": "Belgrade Nikola Tesla",
+        "CityName": "Belgrade",
+        "IataCode": "BEG"
+    },
+    {
+        "CountryName": "Lebanon",
+        "Name": "Beirut",
+        "CityName": "Beirut",
+        "IataCode": "BEY"
+    },
+    {
+        "CountryName": "Iraq",
+        "Name": "Baghdad International",
+        "CityName": "Baghdad",
+        "IataCode": "BGW"
+    },
+    {
+        "CountryName": "Uzbekistan",
+        "Name": "Bukhara",
+        "CityName": "Bukhara",
+        "IataCode": "BHK"
+    },
+    {
+        "CountryName": "Gambia",
+        "Name": "Banjul",
+        "CityName": "Banjul",
+        "IataCode": "BJL"
+    },
+    {
+        "CountryName": "Colombia",
+        "Name": "Bogota",
+        "CityName": "Bogota",
+        "IataCode": "BOG"
+    },
+    {
+        "CountryName": "Venezuela",
+        "Name": "Barquisimeto",
+        "CityName": "Barquisimeto",
+        "IataCode": "BRM"
+    },
+    {
+        "CountryName": "Belgium",
+        "Name": "Brussels International",
+        "CityName": "Brussels",
+        "IataCode": "BRU"
+    },
+    {
+        "CountryName": "Hungary",
+        "Name": "Budapest",
+        "CityName": "Budapest",
+        "IataCode": "BUD"
+    },
+    {
+        "CountryName": "Brunei",
+        "Name": "Bandar Seri Begawan",
+        "CityName": "Bandar Seri Begawan",
+        "IataCode": "BWN"
+    },
+    {
+        "CountryName": "Egypt",
+        "Name": "Cairo",
+        "CityName": "Cairo",
+        "IataCode": "CAI"
+    },
+    {
+        "CountryName": "China",
+        "Name": "Guangzhou",
+        "CityName": "Guangzhou",
+        "IataCode": "CAN"
+    },
+    {
+        "CountryName": "Bolivia",
+        "Name": "Cochabamba",
+        "CityName": "Cochabamba",
+        "IataCode": "CBB"
+    },
+    {
+        "CountryName": "France",
+        "Name": "Paris Charles de Gaulle",
+        "CityName": "Paris",
+        "IataCode": "CDG"
+    },
+    {
+        "CountryName": "Indonesia",
+        "Name": "Soekarno-Hatta",
+        "CityName": "Jakarta",
+        "IataCode": "CGK"
+    },
+    {
+        "CountryName": "Guinea",
+        "Name": "Conakry",
+        "CityName": "Conakry",
+        "IataCode": "CKY"
+    },
+    {
+        "CountryName": "Sri Lanka",
+        "Name": "Colombo Bandaranayake",
+        "CityName": "Colombo",
+        "IataCode": "CMB"
+    },
+    {
+        "CountryName": "Morocco",
+        "Name": "Casablanca Mohamed V.",
+        "CityName": "Casablanca",
+        "IataCode": "CMN"
+    },
+    {
+        "CountryName": "Benin",
+        "Name": "Cotonou",
+        "CityName": "Cotonou",
+        "IataCode": "COO"
+    },
+    {
+        "CountryName": "Denmark",
+        "Name": "Copenhagen",
+        "CityName": "Copenhagen",
+        "IataCode": "CPH"
+    },
+    {
+        "CountryName": "Bangladesh",
+        "Name": "Dhaka",
+        "CityName": "Dhaka",
+        "IataCode": "DAC"
+    },
+    {
+        "CountryName": "Vietnam",
+        "Name": "Da Nang",
+        "CityName": "Da Nang",
+        "IataCode": "DAD"
+    },
+    {
+        "CountryName": "Tanzania",
+        "Name": "Dar Es Salaam",
+        "CityName": "Dar Es Salaam",
+        "IataCode": "DAR"
+    },
+    {
+        "CountryName": "Cameroon",
+        "Name": "Douala",
+        "CityName": "Douala",
+        "IataCode": "DLA"
+    },
+    {
+        "CountryName": "Thailand",
+        "Name": "Bangkok Don Meung",
+        "CityName": "Bangkok",
+        "IataCode": "DMK"
+    },
+    {
+        "CountryName": "Qatar",
+        "Name": "Hamad International",
+        "CityName": "Doha",
+        "IataCode": "DOH"
+    },
+    {
+        "CountryName": "Ireland",
+        "Name": "Dublin",
+        "CityName": "Dublin",
+        "IataCode": "DUB"
+    },
+    {
+        "CountryName": "United Arab Emirates",
+        "Name": "Dubai",
+        "CityName": "Dubai",
+        "IataCode": "DXB"
+    },
+    {
+        "CountryName": "Mayotte",
+        "Name": "Dzaoudzi",
+        "CityName": "Dzaoudzi",
+        "IataCode": "DZA"
+    },
+    {
+        "CountryName": "Uganda",
+        "Name": "Entebbe",
+        "CityName": "Entebbe",
+        "IataCode": "EBB"
+    },
+    {
+        "CountryName": "Faroe Islands",
+        "Name": "Sorvagur",
+        "CityName": "Sorvagur",
+        "IataCode": "FAE"
+    },
+    {
+        "CountryName": "DR Congo",
+        "Name": "Lubumbashi",
+        "CityName": "Lubumbashi",
+        "IataCode": "FBM"
+    },
+    {
+        "CountryName": "Italy",
+        "Name": "Rome Fiumicino",
+        "CityName": "Rome",
+        "IataCode": "FCO"
+    },
+    {
+        "CountryName": "Germany",
+        "Name": "Frankfurt am Main",
+        "CityName": "Frankfurt",
+        "IataCode": "FRA"
+    },
+    {
+        "CountryName": "Cayman Islands",
+        "Name": "Grand Cayman Island",
+        "CityName": "Grand Cayman Island",
+        "IataCode": "GCM"
+    },
+    {
+        "CountryName": "Brazil",
+        "Name": "Sao Paulo Guarulhos",
+        "CityName": "Sao Paulo",
+        "IataCode": "GRU"
+    },
+    {
+        "CountryName": "Guatemala",
+        "Name": "Guatemala City",
+        "CityName": "Guatemala City",
+        "IataCode": "GUA"
+    },
+    {
+        "CountryName": "Guam",
+        "Name": "Guam A.B. Won Pat",
+        "CityName": "Barrigada / Tamuning",
+        "IataCode": "GUM"
+    },
+    {
+        "CountryName": "Switzerland",
+        "Name": "Geneva",
+        "CityName": "Geneva",
+        "IataCode": "GVA"
+    },
+    {
+        "CountryName": "Azerbaijan",
+        "Name": "Baku Heydar Aliyev International",
+        "CityName": "Baku",
+        "IataCode": "GYD"
+    },
+    {
+        "CountryName": "Vietnam",
+        "Name": "Hanoi",
+        "CityName": "Hanoi",
+        "IataCode": "HAN"
+    },
+    {
+        "CountryName": "Cuba",
+        "Name": "Havana",
+        "CityName": "Havana",
+        "IataCode": "HAV"
+    },
+    {
+        "CountryName": "Finland",
+        "Name": "Helsinki Vantaa",
+        "CityName": "Helsinki",
+        "IataCode": "HEL"
+    },
+    {
+        "CountryName": "Hong Kong",
+        "Name": "Hong Kong International",
+        "CityName": "Hong Kong",
+        "IataCode": "HKG"
+    },
+    {
+        "CountryName": "Japan",
+        "Name": "Tokyo Haneda",
+        "CityName": "Tokyo",
+        "IataCode": "HND"
+    },
+    {
+        "CountryName": "Vietnam",
+        "Name": "Haiphong",
+        "CityName": "Haiphong",
+        "IataCode": "HPH"
+    },
+    {
+        "CountryName": "Zimbabwe",
+        "Name": "Harare",
+        "CityName": "Harare",
+        "IataCode": "HRE"
+    },
+    {
+        "CountryName": "South Korea",
+        "Name": "Seoul Incheon Int'l",
+        "CityName": "Seoul",
+        "IataCode": "ICN"
+    },
+    {
+        "CountryName": "Iran",
+        "Name": "Tehran Imam Khomeini",
+        "CityName": "Tehran",
+        "IataCode": "IKA"
+    },
+    {
+        "CountryName": "Turkey",
+        "Name": "Istanbul Ataturk",
+        "CityName": "Istanbul",
+        "IataCode": "IST"
+    },
+    {
+        "CountryName": "Ukraine",
+        "Name": "Kiev Borispol",
+        "CityName": "Kiev",
+        "IataCode": "KBP"
+    },
+    {
+        "CountryName": "Iceland",
+        "Name": "Reykjavik Keflavik",
+        "CityName": "Reykjavik",
+        "IataCode": "KEF"
+    },
+    {
+        "CountryName": "Rwanda",
+        "Name": "Kigali",
+        "CityName": "Kigali",
+        "IataCode": "KGL"
+    },
+    {
+        "CountryName": "Pakistan",
+        "Name": "Karachi",
+        "CityName": "Karachi",
+        "IataCode": "KHI"
+    },
+    {
+        "CountryName": "Moldova",
+        "Name": "Chisinau",
+        "CityName": "Chisinau",
+        "IataCode": "KIV"
+    },
+    {
+        "CountryName": "Cambodia",
+        "Name": "Sihanoukville",
+        "CityName": "Sihanoukville",
+        "IataCode": "KOS"
+    },
+    {
+        "CountryName": "Nepal",
+        "Name": "Kathmandu",
+        "CityName": "Kathmandu",
+        "IataCode": "KTM"
+    },
+    {
+        "CountryName": "Malaysia",
+        "Name": "Kuala Lumpur International",
+        "CityName": "Kuala Lumpur",
+        "IataCode": "KUL"
+    },
+    {
+        "CountryName": "Kuwait",
+        "Name": "Kuwait",
+        "CityName": "Kuwait",
+        "IataCode": "KWI"
+    },
+    {
+        "CountryName": "Angola",
+        "Name": "Luanda",
+        "CityName": "Luanda",
+        "IataCode": "LAD"
+    },
+    {
+        "CountryName": "Gabon",
+        "Name": "Libreville",
+        "CityName": "Libreville",
+        "IataCode": "LBV"
+    },
+    {
+        "CountryName": "Togo",
+        "Name": "Lome",
+        "CityName": "Lome",
+        "IataCode": "LFW"
+    },
+    {
+        "CountryName": "United Kingdom",
+        "Name": "London Heathrow",
+        "CityName": "London",
+        "IataCode": "LHR"
+    },
+    {
+        "CountryName": "Peru",
+        "Name": "Lima",
+        "CityName": "Lima",
+        "IataCode": "LIM"
+    },
+    {
+        "CountryName": "Costa Rica",
+        "Name": "Liberia",
+        "CityName": "Liberia",
+        "IataCode": "LIR"
+    },
+    {
+        "CountryName": "Portugal",
+        "Name": "Lisbon",
+        "CityName": "Lisbon",
+        "IataCode": "LIS"
+    },
+    {
+        "CountryName": "Nigeria",
+        "Name": "Lagos",
+        "CityName": "Lagos",
+        "IataCode": "LOS"
+    },
+    {
+        "CountryName": "Laos",
+        "Name": "Luang Prabang",
+        "CityName": "Luang Prabang",
+        "IataCode": "LPQ"
+    },
+    {
+        "CountryName": "Zambia",
+        "Name": "Lusaka",
+        "CityName": "Lusaka",
+        "IataCode": "LUN"
+    },
+    {
+        "CountryName": "Luxembourg",
+        "Name": "Luxembourg",
+        "CityName": "Luxembourg",
+        "IataCode": "LUX"
+    },
+    {
+        "CountryName": "Oman",
+        "Name": "Muscat",
+        "CityName": "Muscat",
+        "IataCode": "MCT"
+    },
+    {
+        "CountryName": "Australia",
+        "Name": "Melbourne Tullamarine",
+        "CityName": "Melbourne",
+        "IataCode": "MEL"
+    },
+    {
+        "CountryName": "Mexico",
+        "Name": "Mexico City Juarez International",
+        "CityName": "Mexico City",
+        "IataCode": "MEX"
+    },
+    {
+        "CountryName": "Macau",
+        "Name": "Macau",
+        "CityName": "Macau",
+        "IataCode": "MFM"
+    },
+    {
+        "CountryName": "Somalia",
+        "Name": "Mogadishu",
+        "CityName": "Mogadishu",
+        "IataCode": "MGQ"
+    },
+    {
+        "CountryName": "Malta",
+        "Name": "Luqa Malta International",
+        "CityName": "Luqa",
+        "IataCode": "MLA"
+    },
+    {
+        "CountryName": "Maldives",
+        "Name": "Ibrahim Nasir International",
+        "CityName": "Male",
+        "IataCode": "MLE"
+    },
+    {
+        "CountryName": "Philippines",
+        "Name": "Manila Ninoy Aquino",
+        "CityName": "Manila",
+        "IataCode": "MNL"
+    },
+    {
+        "CountryName": "Mauritius",
+        "Name": "Mauritius",
+        "CityName": "Mauritius",
+        "IataCode": "MRU"
+    },
+    {
+        "CountryName": "Belarus",
+        "Name": "Minsk International 2",
+        "CityName": "Minsk",
+        "IataCode": "MSQ"
+    },
+    {
+        "CountryName": "Lesotho",
+        "Name": "Maseru",
+        "CityName": "Maseru",
+        "IataCode": "MSU"
+    },
+    {
+        "CountryName": "Fiji",
+        "Name": "Nadi",
+        "CityName": "Nadi",
+        "IataCode": "NAN"
+    },
+    {
+        "CountryName": "Kenya",
+        "Name": "Nairobi Jomo Kenyatta",
+        "CityName": "Nairobi",
+        "IataCode": "NBO"
+    },
+    {
+        "CountryName": "Chad",
+        "Name": "N'Djamena",
+        "CityName": "N'Djamena",
+        "IataCode": "NDJ"
+    },
+    {
+        "CountryName": "Japan",
+        "Name": "Tokyo Narita",
+        "CityName": "Tokyo",
+        "IataCode": "NRT"
+    },
+    {
+        "CountryName": "Norway",
+        "Name": "Oslo Gardermoen",
+        "CityName": "Oslo",
+        "IataCode": "OSL"
+    },
+    {
+        "CountryName": "Romania",
+        "Name": "Bucharest Otopeni",
+        "CityName": "Bucharest",
+        "IataCode": "OTP"
+    },
+    {
+        "CountryName": "Burkina Faso",
+        "Name": "Ouagadougou",
+        "CityName": "Ouagadougou",
+        "IataCode": "OUA"
+    },
+    {
+        "CountryName": "Australia",
+        "Name": "Perth",
+        "CityName": "Perth",
+        "IataCode": "PER"
+    },
+    {
+        "CountryName": "Laos",
+        "Name": "Pakse",
+        "CityName": "Pakse",
+        "IataCode": "PKZ"
+    },
+    {
+        "CountryName": "Trinidad and Tobago",
+        "Name": "Port Of Spain",
+        "CityName": "Port Of Spain",
+        "IataCode": "POS"
+    },
+    {
+        "CountryName": "French Polynesia",
+        "Name": "Papeete",
+        "CityName": "Papeete",
+        "IataCode": "PPT"
+    },
+    {
+        "CountryName": "Czech Republic",
+        "Name": "Prague",
+        "CityName": "Prague",
+        "IataCode": "PRG"
+    },
+    {
+        "CountryName": "Myanmar",
+        "Name": "Yangon",
+        "CityName": "Yangon",
+        "IataCode": "RGN"
+    },
+    {
+        "CountryName": "Latvia",
+        "Name": "Riga International",
+        "CityName": "Riga",
+        "IataCode": "RIX"
+    },
+    {
+        "CountryName": "Palau",
+        "Name": "Koror",
+        "CityName": "Koror",
+        "IataCode": "ROR"
+    },
+    {
+        "CountryName": "Bahamas",
+        "Name": "Rock Sound",
+        "CityName": "Rock Sound",
+        "IataCode": "RSD"
+    },
+    {
+        "CountryName": "Reunion",
+        "Name": "Saint-Denis",
+        "CityName": "Saint-Denis",
+        "IataCode": "RUN"
+    },
+    {
+        "CountryName": "Caribbean Netherlands",
+        "Name": "Saba Island",
+        "CityName": "Saba Island",
+        "IataCode": "SAB"
+    },
+    {
+        "CountryName": "Chile",
+        "Name": "Santiago Arturo Merino Benitez",
+        "CityName": "Santiago",
+        "IataCode": "SCL"
+    },
+    {
+        "CountryName": "Seychelles",
+        "Name": "Mahe Island",
+        "CityName": "Mahe Island",
+        "IataCode": "SEZ"
+    },
+    {
+        "CountryName": "United States",
+        "Name": "San Francisco International",
+        "CityName": "San Francisco",
+        "IataCode": "SFO"
+    },
+    {
+        "CountryName": "Vietnam",
+        "Name": "Ho Chi Minh City",
+        "CityName": "Ho Chi Minh City",
+        "IataCode": "SGN"
+    },
+    {
+        "CountryName": "Singapore",
+        "Name": "Singapore Changi",
+        "CityName": "Singapore",
+        "IataCode": "SIN"
+    },
+    {
+        "CountryName": "Bosnia and Herzegovina",
+        "Name": "Sarajevo International",
+        "CityName": "Sarajevo",
+        "IataCode": "SJJ"
+    },
+    {
+        "CountryName": "Puerto Rico",
+        "Name": "San Juan Luis Munoz Marin",
+        "CityName": "San Juan",
+        "IataCode": "SJU"
+    },
+    {
+        "CountryName": "Bulgaria",
+        "Name": "Sofia",
+        "CityName": "Sofia",
+        "IataCode": "SOF"
+    },
+    {
+        "CountryName": "Northern Mariana Islands",
+        "Name": "Saipan",
+        "CityName": "Saipan",
+        "IataCode": "SPN"
+    },
+    {
+        "CountryName": "Russia",
+        "Name": "Moscow Sheremetyevo",
+        "CityName": "Moscow",
+        "IataCode": "SVO"
+    },
+    {
+        "CountryName": "St Maarten",
+        "Name": "St Maarten",
+        "CityName": "St Maarten",
+        "IataCode": "SXM"
+    },
+    {
+        "CountryName": "Georgia",
+        "Name": "Tbilisi",
+        "CityName": "Tbilisi",
+        "IataCode": "TBS"
+    },
+    {
+        "CountryName": "Montenegro",
+        "Name": "Podgorica",
+        "CityName": "Podgorica",
+        "IataCode": "TGD"
+    },
+    {
+        "CountryName": "Libya",
+        "Name": "Tripoli",
+        "CityName": "Tripoli",
+        "IataCode": "TIP"
+    },
+    {
+        "CountryName": "Estonia",
+        "Name": "Tallinn",
+        "CityName": "Tallinn",
+        "IataCode": "TLL"
+    },
+    {
+        "CountryName": "Israel",
+        "Name": "Ben Gurion Intl",
+        "CityName": "Tel Aviv",
+        "IataCode": "TLV"
+    },
+    {
+        "CountryName": "Madagascar",
+        "Name": "Antananarivo",
+        "CityName": "Antananarivo",
+        "IataCode": "TNR"
+    },
+    {
+        "CountryName": "Taiwan",
+        "Name": "Taipei Taiwan Taoyuan",
+        "CityName": "Taipei",
+        "IataCode": "TPE"
+    },
+    {
+        "CountryName": "Kazakhstan",
+        "Name": "Astana",
+        "CityName": "Astana",
+        "IataCode": "TSE"
+    },
+    {
+        "CountryName": "Tunisia",
+        "Name": "Tunis Carthage",
+        "CityName": "Tunis Carthage",
+        "IataCode": "TUN"
+    },
+    {
+        "CountryName": "Ecuador",
+        "Name": "Quito",
+        "CityName": "Quito",
+        "IataCode": "UIO"
+    },
+    {
+        "CountryName": "Mongolia",
+        "Name": "Ulaanbaatar",
+        "CityName": "Ulaanbaatar",
+        "IataCode": "ULN"
+    },
+    {
+        "CountryName": "Austria",
+        "Name": "Vienna",
+        "CityName": "Vienna",
+        "IataCode": "VIE"
+    },
+    {
+        "CountryName": "Lithuania",
+        "Name": "Vilnius",
+        "CityName": "Vilnius",
+        "IataCode": "VNO"
+    },
+    {
+        "CountryName": "India",
+        "Name": "Visakhapatnam",
+        "CityName": "Visakhapatnam",
+        "IataCode": "VTZ"
+    },
+    {
+        "CountryName": "Russia",
+        "Name": "Vladivostok",
+        "CityName": "Vladivostok",
+        "IataCode": "VVO"
+    },
+    {
+        "CountryName": "Poland",
+        "Name": "Warsaw Chopin",
+        "CityName": "Warsaw",
+        "IataCode": "WAW"
+    },
+    {
+        "CountryName": "Canada",
+        "Name": "Vancouver International",
+        "CityName": "Vancouver",
+        "IataCode": "YVR"
+    },
+    {
+        "CountryName": "Croatia",
+        "Name": "Zagreb",
+        "CityName": "Zagreb",
+        "IataCode": "ZAG"
+    }
+]
